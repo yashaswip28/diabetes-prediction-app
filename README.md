@@ -8,8 +8,10 @@ A lightweight, interactive web app that predicts diabetes risk based on key heal
 
 ### 🖥️ App Interface
 
-![UI Screenshot 1](assets/ui_1.png)
-![UI Screenshot 2](assets/ui_2.png)
+<p float="left">
+  <img src="assets/ui_1.png" width="45%" />
+  <img src="assets/ui_2.png" width="45%" />
+</p>
 
 ### 📊 Prediction Results
 
