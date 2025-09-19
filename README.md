@@ -44,7 +44,16 @@ A lightweight, interactive web app that predicts diabetes risk based on key heal
 ## 📁 Folder Structure
 
 ```
-diabetes-prediction-app/ ├── backend/ │ ├── diabetes_model.pkl │ └── scaler.pkl ├── frontend/ │ └── app.py ├── notebooks/ │ └── model_training.ipynb ├── .venv/ ├── README.md
+diabetes-prediction-app/
+├── backend/
+│ ├── diabetes_model.pkl
+│ └── scaler.pkl
+├── frontend/
+│ └── app.py
+├── notebooks/
+│ └── model_training.ipynb
+├── .venv/
+├── README.md
 ```
 
 ---
