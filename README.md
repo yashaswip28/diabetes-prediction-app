@@ -15,10 +15,15 @@ A lightweight, interactive web app that predicts diabetes risk based on key heal
 
 ### 📊 Prediction Results
 
-![Prediction Result 1](assets/pred_1.png)
-![Prediction : High risk](assets/pred_2.png)
-![Prediction Result 2](assets/pred_3.png)
-![Prediction :  Low risk](assets/pred_4.png)
+<p float="left">
+  <img src="assets/pred_1.png" width="45%" />
+  <img src="assets/pred_2.png" width="45%" />
+</p>
+
+<p float="left">
+  <img src="assets/pred_3.png" width="45%" />
+  <img src="assets/pred_4.png" width="45%" />
+</p>
 
 ---
 
